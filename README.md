@@ -1,1 +1,1 @@
-# Dual-Task-Experiment-with-Visual-Phonological-WM-interleaved-with-multiplication-subtraction
+#Python based dual-task experiment where phonological and working memory trials are interleaved with mental subtraction or multiplication.
